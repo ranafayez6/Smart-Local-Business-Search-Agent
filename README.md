@@ -126,8 +126,8 @@ The collected data can be visualized through Power BI dashboards, including:
 
 ## 📸 Workflow Preview
 
-<img width="100%" alt="Workflow" src="<img width="1812" height="480" alt="Screenshot 2026-07-30 011845" src="https://github.com/user-attachments/assets/94390b8b-45f7-422a-a357-80f0327f96a5" />
-">
+<img width="1812" height="480" alt="Screenshot 2026-07-30 011845" src="https://github.com/user-attachments/assets/fdcd400b-0cac-4056-9bad-2ab848cef13c" />
+
 
 ---
 
